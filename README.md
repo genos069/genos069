@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [#port](#port)
 
-- 📫 How to reach me **genoscyber2@gmail.com**
+- 📫 How to reach me ? **genoscyber2@gmail.com**
 
 - 📄 Know about my experiences [#res](#res)
 
