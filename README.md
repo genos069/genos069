@@ -7,7 +7,7 @@
 
 - 📫 How to reach me ? **genoscyber2@gmail.com**
 
-- 📄 Know about my experiences [Pritam_Mishra_Maximized_Resume-1.pdf](https://github.com/user-attachments/files/28985599/Pritam_Mishra_Maximized_Resume-1.pdf)
+- 📄 Know about my experiences [My_Resume](https://github.com/user-attachments/files/28985599/Pritam_Mishra_Maximized_Resume-1.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
