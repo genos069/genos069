@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [portfolio](pritamprakashmishra.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio](https://pritamprakashmishra.vercel.app/)
 
 - 📫 How to reach me ? **genoscyber2@gmail.com**
 
