@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pritam Prakash Mishra</h1>
+[Pritam_Prakash_Mishra_Resume.pdf](https://github.com/user-attachments/files/32646775/Pritam_Prakash_Mishra_Resume.pdf)<h1 align="center">Hi 👋, I'm Pritam Prakash Mishra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me ? **genoscyber2@gmail.com**
 
-- 📄 Know about my experiences [My_Resume](https://github.com/user-attachments/files/32445260/resume.pdf)
+- 📄 Know about my experiences [My_Resume](https://github.com/user-attachments/files/32646788/Pritam_Prakash_Mishra_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
