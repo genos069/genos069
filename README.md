@@ -1,9 +1,9 @@
-Hi 👋, I'm Pritam Prakash Mishra</h1>
+<h1 align="center">Hi 👋, I'm Pritam Prakash Mishra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
-- 👨‍💻 All of my projects are available at [#port](#port)
+- 👨‍💻 All of my projects are available at [portfolio](pritamprakashmishra.vercel.app)
 
 - 📫 How to reach me ? **genoscyber2@gmail.com**
 
