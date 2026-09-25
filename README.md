@@ -1,4 +1,4 @@
-[Pritam_Prakash_Mishra_Resume.pdf](https://github.com/user-attachments/files/32646775/Pritam_Prakash_Mishra_Resume.pdf)<h1 align="center">Hi 👋, I'm Pritam Prakash Mishra</h1>
+Hi 👋, I'm Pritam Prakash Mishra</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **Data Structure & Algorithm**
